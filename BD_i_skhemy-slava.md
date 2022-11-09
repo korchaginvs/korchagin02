@@ -1,11 +1,11 @@
 ##### БД и схемы
 PostgreSQL управляет несколькими базами данных — кластером. При инициализации кластера специальным образом создаются три одинаковые базы данных. Все остальные БД, создаваемые пользователем, клонируются из какой-либо существующей.
 ##### Практика 1
-В процессе выолнения лр я создал новую базу данных и подключился к ней:
+В процессе выполнения лабораторной работы я создал новую базу данных и подключился к ней:
 ![avatar](https://sun9-70.userapi.com/impg/O87lhak1NXhuLZJGj_FKKEWxlRSsxYVesofvjw/gHLjBW99dOQ.jpg?size=532x94&quality=96&sign=a4aadf32419c3dac327b9b0bc5796b53&type=album)
 Просмотрел размер этой пустой БД и присвоил это значение переменной:
 ![avatar](https://sun9-68.userapi.com/impg/G440QlMwxguVEamE9CJqK1fMYL0xD0FDhModAQ/1rhaJAN2liI.jpg?size=597x107&quality=96&sign=a42b0ce6d2ca56e639035da8018a1aa2&type=album)
-Затем приступил к созданию схемы, БД в ней, и заполнил небольшим количеством данных, чтобы после просмотреть изменения:
+Затем приступил к созданию схемы, Базы Данных в ней, и заполнил небольшим количеством данных, чтобы после просмотреть изменения:
 ![avatar](https://sun9-81.userapi.com/impg/KaZuWZYq2bH-NThr_eniWkS9taphx_Kh4c-fWg/mYjWYfYP9ME.jpg?size=632x345&quality=96&sign=3942205a7ac1dde521c4755136e811d6&type=album)
 ![avatar](https://sun9-9.userapi.com/impg/bH_ybFXOz-iv56zOJoYEWvYrZQrSoEw8Z9-rSw/_IohVxkSl-0.jpg?size=604x165&quality=96&sign=0460fcfd40818e2a86934ddf06b7eac3&type=album)
 Размер изменился на:
